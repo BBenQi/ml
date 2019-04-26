@@ -2,6 +2,8 @@
   <dictionary name="liubenqiang">
     <words>
       <w>mnist</w>
+      <w>multilabel</w>
+      <w>sklearn</w>
       <w>softmax</w>
       <w>strat</w>
     </words>
